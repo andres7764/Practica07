@@ -18,7 +18,7 @@ window.onload = function()
                 error1 = false;
             }
         }
-            if(error1 === false){
+            if(error1 === false) {
                 error++;
                 if(error === 3) {
                     reiniciarJuego("errores");
